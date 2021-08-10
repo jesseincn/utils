@@ -1,9 +1,8 @@
 package log
 
 import (
-	"testing"
-
 	"go.uber.org/zap"
+	"testing"
 )
 
 func Test_logLevel(t *testing.T) {

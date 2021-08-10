@@ -1,4 +1,4 @@
-module github.com/ikerlin/utils
+module github.com/ryanflavo/utils
 
 go 1.13
 
